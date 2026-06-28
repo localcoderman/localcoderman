@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am a Full-Stack Developer specializing in building scalable, high-performance web applications. With expertise spanning React, Redux Toolkit, Node.js, Express, and MongoDB, I bridge the gap between robust backend logic and intuitive, user-centric frontends. Proficient in modern styling (Tailwind CSS, Bootstrap) and UI/UX design in Figma, I write clean code using modern tools like VS Code, Codeium, and Postman, ensuring smooth deployment with Docker and GitHub."
+I am a Full-Stack Developer specializing in building scalable, high-performance web applications. With expertise spanning React, Redux Toolkit, Node.js, Express, and MongoDB, I bridge the gap between robust backend logic and intuitive, user-centric frontends. Proficient in modern styling (Tailwind CSS, Bootstrap) and UI/UX design in Figma, I write clean code using modern tools like VS Code, Codeium, and Postman, ensuring smooth deployment with Docker and GitHub.
 
 
 # 💻 Tech Stack:
